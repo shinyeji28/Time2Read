@@ -1,10 +1,10 @@
-#  <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/c67466a2439e9f0dfd1ab603c6dcf46f/image.png"  width="30" height="30"/> TimeTo Read  
+#  <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/953ccde2-cd77-4918-b3ee-61a0833d2f1e"  width="30" height="30"/> TimeTo Read  
 > Samsung Software Academy For Youth 10기  
 > 도메인 : 빅데이터 - 분산  
 > 개발 기간 : 2024.02.19 ~ 2024.04.04
 
 ## 프로젝트 소개
-![image](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/99e7c31c16fe4596093df72a03612fe1/image.png)  
+![image](https://github.com/shinyeji28/Time2Read/assets/71514775/f100aa09-7689-4480-9d09-b1025c9799d0)  
 과거의 뉴스가 현재와 미래를 이해하는 데 얼마나 중요한 역할을 하는지 알고 계시나요? 
 우리의 서비스를 통해 역사적 순간들을 탐험하고, 그 당시의 흐름과 사건들을 되짚어 보는 데 도움이 될 거예요.
 과거의 뉴스 기사들을 읽고, 그 당시의 사회적, 정치적 풍경을 살펴보며 역사적 지식을 테스트해 보세요.
@@ -26,37 +26,37 @@
 
 ## 주요 기능 소개  [[서비스 화면 자세히 보기]](https://handsome-airport-d67.notion.site/582fd2ceb02b4b64b38994bf7cdcbb61?pvs=4)
 ### 1. 빅데이터 기반의 퀴즈 생성
-![퀴즈유형](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/5fa9cc05830927ab6eaf04b265e12cdb/퀴즈유형.JPG) 
+![퀴즈유형](https://github.com/shinyeji28/Time2Read/assets/71514775/ed9f861e-61d0-43eb-9702-cd291a1867e4) 
 2005년부터 2024년 현재까지의 뉴스 데이터 80만 개를 관리하고 있습니다. 사용자는 연도를 선택하여 해당연도에 대표되는 기사를 퀴즈 형식으로 접하고 추세를 파악할 수 있습니다.
 ### 2. 미로 탈출 퀴즈 게임  
-![image](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/7bc5a7351602efcafa6470542185bb24/image.png)  
+![image](https://github.com/shinyeji28/Time2Read/assets/71514775/532d1166-9d66-4037-a7a9-2b17bd9caf03)  
 이상한 나라의 앨리스 컨셉을 통해 사용자들이 게임에 더 몰입할 수 있도록 하고자 하였습니다. 미로에서 탈출하는 재미도 있지만, 퀴즈를 하나하나 해결하며 자신의 역사적 지식을 테스트할 수 있습니다.
 ### 3. 당시의 트렌드는?
-![image](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/241faf747f8a7e7e11b76e4153a87ddf/image.png)  
+![image](https://github.com/shinyeji28/Time2Read/assets/71514775/6b30e3d8-f8dc-471a-a6f2-911ff3ac6906)  
 단순히 퀴즈로 그 당시를 이해하기는 어렵습니다. 게임이 끝난 후 해당연도를 대표하는 키워드를 통해 빠르게 정보를 얻을 수 있습니다.
 ### 4. 지금까지 이어져 오는 정보의 연결고리
-![과거와연결된기사](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/50fd44ce6df50c89a24c7d4383f0aacf/과거와연결된기사.JPG) 
+![과거와연결된기사](https://github.com/shinyeji28/Time2Read/assets/71514775/1178b3e6-2a1f-42b1-9657-4835b982dc39) 
 지금까지 이어져 오는 관련 기사를 같이 살펴봄으로써 현재의 흐름은 어떠한지 파악하며, 현재와 비교할 수 있도록 하였습니다.
 ### 5. 중요 기사 스크랩하기
-![image](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/cfa99a6e11fe03e49a05511ef5ac978e/image.png)  
+![image](https://github.com/shinyeji28/Time2Read/assets/71514775/b9889430-a42b-44ed-9e1d-9f04c2c9570a)  
 퀴즈를 통한 문제를 접하면서 자신이 중요하다고 생각하는 기사를 스크랩하고, 계속해서 볼 수 있습니다. 이렇게 쌓인 스크랩 기사는 나중에 모여서 자신의 관심 분야, 사건들을 파악하는데 도움이 됩니다.
 ### 6. 뱃지를 활용한 흥미 유발 요소 제공
-![image](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/5c88c8f5dab65ef235931dc731862159/image.png)  
+![image](https://github.com/shinyeji28/Time2Read/assets/71514775/1ceef29a-1095-4e1d-8417-ac8d1cc2e4dc)  
 퀴즈 형식의 게임은 금방 질릴 수 있습니다. 그런 점을 충분히 알기에 뱃지 요소를 활용하여 사용자의 수집 욕구를 불러일으키고자 하였습니다. 
 
 ## 시스템 아키텍처
-![비비빅_시스템_아키텍처](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/7bc7df1716ef9ff35dd33e3f1a7730df/비비빅_시스템_아키텍처.png)
+![비비빅_시스템_아키텍처](https://github.com/shinyeji28/Time2Read/assets/71514775/2f236da6-dc5b-41fb-8e64-d9990ba9e5a4)
 
 ## 팀원소개👨‍👨‍👧‍👧
 
 |                                      frontend                                       |                                        frontend                                         |                                      frontend                                       |  
 |:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|  
-| <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/215964f3f5b68f08d32aac0d34e1d13b/김수혁.jpg" width=130px alt="김수혁"> | <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/abe20a804ea0bfd18168f320d59300e1/정혜진.jpg" width=130px alt="정혜진"> | <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/73dbc3a8a78581965e5fdef3a81f30ea/조은영.jpg" width=130px alt="조은영"> |
+| <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/9a5d3e80-3893-4fac-acf4-33176f62db13" width=130px alt="김수혁"> | <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/ad1c9dad-12ec-483e-a892-2abc251fb8d8" width=130px alt="정혜진"> | <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/927d5091-5547-4d05-8778-fc96fc21d232" width=130px alt="조은영"> |
 |                         [김수혁](https://github.com/tngur1101)                          |                           [정혜진](https://github.com/pado7sea)                            |                             [조은영](https://github.com/euny0ung)                              |
 
 |                                            backend                                            |                                         backend                                         |                                       backend                                       |  
 |:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|  
-| <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/=/uploads/92d14f36f14daa7448f2e8ef2a3b6bf9/1688961757483.jpg" width=130px alt="강성범"> | <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/599574a1c65374b2d6170079f5e47052/신예지.jpg" width=130px alt="신예지"> | <img src="https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22B307/uploads/3d2e7d90b13cec03a743c4322ea39bd5/이민우.jpg" width=130px alt="이민우"> |
+| <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/9d2f3c5c-497a-4d2c-908b-643211877286" width=130px alt="강성범"> | <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/d02ae28d-3025-46dd-966e-ca40bcb16e18" width=130px alt="신예지"> | <img src="https://github.com/shinyeji28/Time2Read/assets/71514775/ead73bf0-a428-4e4f-ba8d-4b160d2b48b8" width=130px alt="이민우"> |
 |              [강성범](https://github.com/kang-seongbeom)               |                           [신예지](https://github.com/shinyeji28)                            |                          [이민우](https://github.com/lmw7414)                          |
 
 
